@@ -44,7 +44,7 @@ class FeedViewController: UIViewController {
                 self.idToName(id: self.currUser.interestedEvents)
         }
     }
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
         

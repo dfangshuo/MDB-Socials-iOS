@@ -290,8 +290,6 @@ class APIClient {
         let newUser = ["name": name, "username": username, "imageURL": imageURL, "id": id]
         let childUpdates = ["/\(id)/": newUser]
         usersRef.updateChildValues(childUpdates)
-        log.info("User \(name) with reference \(id) successfully created!")
-
     }
     
     static func modifyUser(id: String, childUpdates: [String : Any]) {
