@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mdbSocials/Helpers/Utils.swift"
+            timestampString = "542423124.642722"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mdbSocials.Utils.deinit"
+                  moduleName = "mdbSocials"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fang/Desktop/iOSMiniProj5/mdbSocials/Helpers/Utils.swift"
+                  timestampString = "542778337.9967051"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mdbSocials.Utils.__deallocating_deinit"
+                  moduleName = "mdbSocials"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fang/Desktop/iOSMiniProj5/mdbSocials/Helpers/Utils.swift"
+                  timestampString = "542778337.999139"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mdbSocials.Utils.__allocating_init() -&gt; mdbSocials.Utils"
+                  moduleName = "mdbSocials"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fang/Desktop/iOSMiniProj5/mdbSocials/Helpers/Utils.swift"
+                  timestampString = "542778338.001483"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mdbSocials.Utils.init() -&gt; mdbSocials.Utils"
+                  moduleName = "mdbSocials"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fang/Desktop/iOSMiniProj5/mdbSocials/Helpers/Utils.swift"
+                  timestampString = "542778338.004326"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
