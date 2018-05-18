@@ -16,7 +16,7 @@ MDB Socials is an internal social media app that allows users to create and resp
 - **Languages:** Swift
 - **Frameworks:** Firebase, Cocoapods
 
-MDB Socials is a Mobile App that makes database calls through a REST API[REST API](https://github.com/dfangshuo/iOSRestAPI). This keeps the business logic server-side and enables versatility for future expansion onto other platforms.
+MDB Socials is a Mobile App that makes database calls through a [REST API](https://github.com/dfangshuo/iOSRestAPI). This keeps the business logic server-side and enables versatility for future expansion onto other platforms.
 
 The Database used is Firebase, and significant care was taken to design the database to keep the JSON trees as flat as possible.
 
