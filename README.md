@@ -22,6 +22,8 @@ The Database used is Firebase, and significant care was taken to design the data
 
 Authentication was handled by the Firebase Auth Console, and a variety of Cocoapods were also used, such as PromiseKit, Alamofire (to make API calls) and SwiftyBeaver.
 
+This was an individual project.
+
 
 <!-- 
 
