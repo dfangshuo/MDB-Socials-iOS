@@ -2,7 +2,7 @@
 
 *by Fang Shuo*
 
-MDB Socials is an internal social media app that allows users to create and respond to events (by indicating interest and availability).
+MDB Socials is an internal social media app that allows users to create and respond to events (by indicating interest and availability). It is built and must be used in tandem with a [REST API](https://github.com/dfangshuo/iOSRestAPI).
 
 ## Features
 
